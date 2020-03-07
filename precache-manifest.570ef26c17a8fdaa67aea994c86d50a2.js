@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "150e9e4fd302901ae5a2c507d4b52a82",
+    "revision": "22db3a5e6fe339b04d2d059f23144b13",
     "url": "/apka2/index.html"
   },
   {
-    "revision": "03b4e4fcaf5985b97027",
+    "revision": "5c7721cfc42cd68e4676",
     "url": "/apka2/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/apka2/static/js/2.6bec0263.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03b4e4fcaf5985b97027",
-    "url": "/apka2/static/js/main.676aadfd.chunk.js"
+    "revision": "5c7721cfc42cd68e4676",
+    "url": "/apka2/static/js/main.4c786436.chunk.js"
   },
   {
     "revision": "846e1e5f4eef1d5b9aca",
